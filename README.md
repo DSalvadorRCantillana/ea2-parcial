@@ -72,4 +72,4 @@ Se ejecutan con `npm test`. Cubren la validación del formulario de contacto, el
 
 ## Autor
 
-Tu Nombre: [LinkedIn](https://www.linkedin.com/in/demiansalvadorojascantillana/) · [GitHub](https://github.com/DSalvadorRCantillana)
+[LinkedIn](https://www.linkedin.com/in/demiansalvadorojascantillana/) · [GitHub](https://github.com/DSalvadorRCantillana)
